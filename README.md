@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="id"> 
  <head> 
   <title>Al-Qur'an MY</title> 
